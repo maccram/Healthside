@@ -1,0 +1,24 @@
+body {
+    background-color: #f0f0f0;
+}
+
+#typewriter {
+    border-right: 2px solid transparent; /* Makes the cursor invisible */
+    padding-right: 5px; /* Keeps some space for the cursor */
+}
+
+.navbar {
+    height: 50px;
+}
+
+.viewHeight {
+    /* Your CSS properties here */
+    min-height: calc(100vh - 100px); /* Example property: make the element take the full viewport height */
+}
+
+.heading {
+    font-size: 40px;
+    font-style: Semi Bold;
+    font-family: "Inter";
+    font-weight: 700;
+}
