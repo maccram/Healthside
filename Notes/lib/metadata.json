@@ -1,0 +1,1561 @@
+{
+  "vaultName": "Healthside",
+  "lastExport": 1720119661860,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager show-inline-title theme-dark",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": true,
+  "files": [
+    "Media/Excalidraw/NeuronStimulatedSalt.excalidraw.md",
+    "Media/Excalidraw/NeuronUnstimulatedSalt.excalidraw.md",
+    "Media/Aquaporin.png",
+    "Media/BloodWithGrounding.png",
+    "Media/ColostrumVsMatureMilk.png",
+    "Media/DietarySourcesOmega-3.png",
+    "Media/DietarySourcesOmega-6.png",
+    "Media/HealthyTooth.jpeg",
+    "Media/Interface.png",
+    "Media/LightWavelengths.png",
+    "Media/MilkNutrients1.png",
+    "Media/MilkNutrients2.png",
+    "Media/MilkNutrients3.png",
+    "Media/MilkNutrients4.png",
+    "Media/Pasted image 20240630073438.png",
+    "Media/Pasted image 20240630074301.png",
+    "Media/Pasted image 20240630074350.png",
+    "Media/SaturatedUnsaturatedFats.png",
+    "Media/SebaceousGland.png",
+    "Media/ToothpasteWarningLable.png",
+    "Media/ToothWithCavity.jpeg",
+    "Media/WaterChemistry.png",
+    "Notes/7 pillars of Health - Andrew Huberman.md",
+    "Notes/ADP (adenosine triphosphate).md",
+    "Notes/All about dairy.md",
+    "Notes/Anti Nutrients.md",
+    "Notes/Blood work.md",
+    "Notes/Breathwork.md",
+    "Notes/Caffeine.md",
+    "Notes/Carbonated Water.md",
+    "Notes/Chamomile.md",
+    "Notes/Cold Exposure.md",
+    "Notes/Cortisol.md",
+    "Notes/Dandruff.md",
+    "Notes/Dehydration.md",
+    "Notes/Dopamin.md",
+    "Notes/Dopamine Stacking.md",
+    "Notes/Dry & Oily hair.md",
+    "Notes/Dry Eyes.md",
+    "Notes/Dry Lips.md",
+    "Notes/Fermented food.md",
+    "Notes/Fluoride.md",
+    "Notes/Food labels.md",
+    "Notes/Free Radicals.md",
+    "Notes/Fruits.md",
+    "Notes/GLP-1.md",
+    "Notes/Grass Fed vs. Grain Fed.md",
+    "Notes/Green tea.md",
+    "Notes/Grounding.md",
+    "Notes/Honey.md",
+    "Notes/How metabolism works.md",
+    "Notes/How salt impacts our body.md",
+    "Notes/How to build muscle.md",
+    "Notes/Hydrogen enriched water.md",
+    "Notes/Infrared Sauna.md",
+    "Notes/Intermitten Fasting.md",
+    "Notes/Lactose.md",
+    "Notes/Lean Meat.md",
+    "Notes/Light and its Health benefits.md",
+    "Notes/Mitochondria.md",
+    "Notes/Omega 3 vs Omega 6.md",
+    "Notes/Oral Health.md",
+    "Notes/Organelles.md",
+    "Notes/Organic Chemistry.md",
+    "Notes/Protein.md",
+    "Notes/Red Light Therapy.md",
+    "Notes/Reinforce and Aversive Agents.md",
+    "Notes/Sleep.md",
+    "Notes/Sunlight.md",
+    "Notes/Sunscreen.md",
+    "Notes/The modern diet and its problems.md",
+    "Notes/The power of little promises.md",
+    "Notes/Theanine.md",
+    "Notes/Vegetables.md",
+    "Notes/Vitamin D3.md",
+    "Notes/Water.md",
+    "Notes/Water Filtration.md",
+    "Source Notes/(Comparison between the Effect of Cow Ghee and Butter on Memory and Lipid Profile of Wistar Rats.md",
+    "Source Notes/(Effects of Omega-3-Rich Pork Lard on Serum Lipid Profile and Gut Microbiome in C57BL6NJ Mice.md",
+    "Source Notes/(Safety of raw dairy.md",
+    "Source Notes/(The Importance of Maintaining a Low Omega-6 Omega-3 Ratio for Reducing the Risk of Autoimmune Diseases, Asthma, and Allergies.md",
+    "Source Notes/+5 Things Your LIPS Can Tell You about Your Nutritional State.md",
+    "Source Notes/+7 Best Sources of DHA & EPA Essential Omega-3 Fatty Acids.md",
+    "Source Notes/+7 DHA-rich Foods (And 3 Fakers with NONE) Best Omega-3 - 2024.md",
+    "Source Notes/+Are Vegetables Actually Toxic.md",
+    "Source Notes/+Are vegetables really bad for us.md",
+    "Source Notes/+Breathwork - Ultimate Human Short.md",
+    "Source Notes/+Broccoli - Could It Be Harming You.md",
+    "Source Notes/+Cold Water Exposure for Fat Burning, Mood Boosts, and More - Ultimate Human Short with Gary Brecka.md",
+    "Source Notes/+Dairy good or bad for humans.md",
+    "Source Notes/+Did our ancestors eat vegetables.md",
+    "Source Notes/+Do NOT cook with these oils.md",
+    "Source Notes/+Do we need vegetables for a healthy gut.md",
+    "Source Notes/+Dr. Mike Israetel - Build Muscle Faster than 99% of people by doing this.md",
+    "Source Notes/+Dr. Paul Saladino Claims Oatmeal is the Most Dangerous Food Humans can Eat (and Oat Milk).md",
+    "Source Notes/+Dr. Paul Saladino's Animal-Based Diet 101 - A step-by-step guide.md",
+    "Source Notes/+Dr. Robert Lustig How Sugar & Processed Food Impacts your health - Huberman Lab Podcast.md",
+    "Source Notes/+Drinking Water is not the best way to stay hydrated.md",
+    "Source Notes/+Fasting for Detoxification and Longevity Ancient Wisdom Meets Modern Science - Ultimate Human Short.md",
+    "Source Notes/+Gary Brecka’s 8 Methods to Increase Longevity on a Budget.md",
+    "Source Notes/+Gastroenterologist Destroys Vegetable Concerns - Lectins, Phytic Acid, Anti Nutrients.md",
+    "Source Notes/+Grass-Fed vs. Grass-Finished Beef – Dr. Berg.md",
+    "Source Notes/+GROUNDING - Ultimate Human Short.md",
+    "Source Notes/+He Can Predict When YOU DIE How To HEAL Your Inflammation & Fix Your Health - Gary Brecka.md",
+    "Source Notes/+Here’s What Eating Dairy EVERY DAY Does to Your Stomach Fat, Brain, and Gut.md",
+    "Source Notes/+HONEY -vs- High-Fructose Corn Syrup (Is Honey Healthier) 2024.md",
+    "Source Notes/+How Does Blue Light & Other Light Affect Your Sleep - Dr. Andrew Huberman.md",
+    "Source Notes/+How Gary Brecka Fixed Dana White's Health.md",
+    "Source Notes/+How To Fix Your Chapped Lips – Dr.Berg On Remedy For Chapped Lips.md",
+    "Source Notes/+How to Improve Oral Health & Its Critical Role in Brain & Body Health.md",
+    "Source Notes/+How to make homemade animal-based sunscreen.md",
+    "Source Notes/+How to Optimize your water Quality & Intake for health - Huberman Lab Podcast.md",
+    "Source Notes/+How to Read Ingredient Labels & What To Avoid - Ultimate Human Short with Gary Brecka.md",
+    "Source Notes/+Huberman - CARNIVORE and VEGAN diets are detrimental for young MALES.md",
+    "Source Notes/+I Was WRONG About Veggies (Plant Problems) 2024.md",
+    "Source Notes/+Is DAIRY Scary Inflammation & Obesity Concerns - 2024.md",
+    "Source Notes/+Is Fluoride Lowering IQs Why Tap Water Needs to Be Filtered From Your Life For Good - Gary Brecka.md",
+    "Source Notes/+Is Honey a Better Substitute for Sugar.md",
+    "Source Notes/+Is it safe to use apple cider vinegar for hair - Dr. Berg.md",
+    "Source Notes/+Keto Diet Water and Electrolytes are Essential - Andrew Huberman and Lex Fridman.md",
+    "Source Notes/+Natural Dentist Reveals the CLEANEST Toothpaste on the Planet - Dr. Mark Burhenne.md",
+    "Source Notes/+Natural Sunscreen Recipe – Dr. Berg.md",
+    "Source Notes/+New Fascinating Research on Grass-Fed Beef.md",
+    "Source Notes/+Omega-3 and Omega-6 Fatty Acids Food Sources and Inflammation.md",
+    "Source Notes/+Paul Saladino Added Rice & Potatoes to His Diet (and this happened).md",
+    "Source Notes/+Phytic acid and anti-nutrients.md",
+    "Source Notes/+Polyunsaturated Fats Breakdown- Omega-3’s vs Omega-6’s.md",
+    "Source Notes/+Recover Faster, Fight Neurological Issues & Reverse Signs of Aging with Red Light Therapy.md",
+    "Source Notes/+Seed Oils, The Dirty 8 That Are Destroying Your Health - Ultimate Human Short with Gary Brecka.md",
+    "Source Notes/+Should You AVOID DAIRY - GRASS-FED Vs. NON - GRASS-FED.md",
+    "Source Notes/+Sleep - Hacks, Supplements, and Routines for Better Sleep - Ultimate Human Short with Gary Brecka.md",
+    "Source Notes/+The 9 Most Nutrient Dense Vegetables with ZERO Downsides (no oxalates or anti-nutrients).md",
+    "Source Notes/+The BEST and WORST Fermented Foods for Gut Health (avoid number 3).md",
+    "Source Notes/+The Best Natural Sources of Omega-3 Fatty Acids – Dr. Berg.md",
+    "Source Notes/+The Best Protein Sources for Longevity - Dr. Paul Saladino Ranks Best to Worst.md",
+    "Source Notes/+The Fascinating Benefits of RAW MILK Dairy.md",
+    "Source Notes/+The Health Benefits of Honey – Dr.Berg.md",
+    "Source Notes/+The MOST Important Intermittent Fasting Basics for Beginners MUST WATCH - Dr. Berg.md",
+    "Source Notes/+The problem with eating plants.md",
+    "Source Notes/+The real cause and cure for dandruff.md",
+    "Source Notes/+This SUPERFOOD is ILLEGAL All about RAW MILK.md",
+    "Source Notes/+Use Probiotics for Dandruff.md",
+    "Source Notes/+Using Caffeine to Optimize Mental & Physical Performance - Huberman Lab Podcast 101.md",
+    "Source Notes/+Using Light (Sunlight, Blue Light & Red Light) to Optimize Health - Huberman Lab Podcast 68.md",
+    "Source Notes/+Using Salt to Optimize Mental & Physical Performance - Huberman Lab Podcast 63.md",
+    "Source Notes/+Vitamin Deficiencies that cause dry or oily hair - Dr. Berg.md",
+    "Source Notes/+Wearing Blue Blocking Glasses is NOT a Dumb Idea - Here’s Why.md",
+    "Source Notes/+What is fluoride really.md",
+    "Source Notes/+Which Fermented Foods Can You Eat on Ketogenic Diet – Dr. Berg.md",
+    "Source Notes/+Why Blue Light Blockers Are A Scam.md",
+    "Source Notes/+Why Gary Brecka Changed his Mind on Keto, Fasting, and 3 other things.md",
+    "Source Notes/+Why Grass Fed vs. Grain Fed - Dr. Berg.md",
+    "Source Notes/+Why grass-finished meat is better.md",
+    "Source Notes/+Why I Quit Keto and What I Wish I Did Differently (sincerely).md",
+    "Source Notes/+Why I Quit The Carnivore Diet.md",
+    "Source Notes/+Why Paul Saladino Quit Carnivore & Now Eats 300g of Carbs Per Day.md",
+    "Source Notes/+Why Paul Saladino, MD Quit A 100% Carnivore Diet, Impacts of Cholesterol, And the Value of Insulin.md",
+    "Source Notes/+Why You Should Drink Carbonated Water.md",
+    "Source Notes/+World No.1 Biohacking Expert Tested 100,000 People's DNA. This Diet Will Kill You - Gary Brecka.md",
+    "Tools/Tool - Breathwork.md",
+    "Tools/Tool - Diet.md",
+    "Tools/Tool - Evening routine.md",
+    "Tools/Tool - Hydration.md",
+    "Tools/Tool - Morning Routine.md",
+    "Tools/Tool - Toothcare Routine.md",
+    "Tools/Tool - Waking up early the easy way.md",
+    "Recommended Products.md",
+    "Welcome to Healthside.md",
+    "lib/media/milknutrients1.png",
+    "lib/media/milknutrients2.png",
+    "lib/media/milknutrients4.png",
+    "lib/media/milknutrients3.png",
+    "lib/media/colostrumvsmaturemilk.png",
+    "lib/media/sebaceousgland.png",
+    "lib/media/toothpastewarninglable.png",
+    "lib/media/bloodwithgrounding.png",
+    "lib/media/lightwavelengths.png",
+    "lib/media/saturatedunsaturatedfats.png",
+    "lib/media/dietarysourcesomega-3.png",
+    "lib/media/dietarysourcesomega-6.png",
+    "lib/media/healthytooth.jpeg",
+    "lib/media/toothwithcavity.jpeg",
+    "lib/media/waterchemistry.png",
+    "lib/media/aquaporin.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Media/Excalidraw/NeuronStimulatedSalt.excalidraw.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 44609,
+      "exportedPath": "media/excalidraw/neuronstimulatedsalt.excalidraw.html",
+      "dependencies": []
+    },
+    "Media/Excalidraw/NeuronUnstimulatedSalt.excalidraw.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 9328,
+      "exportedPath": "media/excalidraw/neuronunstimulatedsalt.excalidraw.html",
+      "dependencies": []
+    },
+    "Media/Aquaporin.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 460663,
+      "exportedPath": "media/aquaporin.png",
+      "dependencies": []
+    },
+    "Media/BloodWithGrounding.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 849152,
+      "exportedPath": "media/bloodwithgrounding.png",
+      "dependencies": []
+    },
+    "Media/ColostrumVsMatureMilk.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 41033,
+      "exportedPath": "media/colostrumvsmaturemilk.png",
+      "dependencies": []
+    },
+    "Media/DietarySourcesOmega-3.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 17918,
+      "exportedPath": "media/dietarysourcesomega-3.png",
+      "dependencies": []
+    },
+    "Media/DietarySourcesOmega-6.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 17386,
+      "exportedPath": "media/dietarysourcesomega-6.png",
+      "dependencies": []
+    },
+    "Media/HealthyTooth.jpeg": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 34316,
+      "exportedPath": "media/healthytooth.jpeg",
+      "dependencies": []
+    },
+    "Media/Interface.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 153304,
+      "exportedPath": "media/interface.png",
+      "dependencies": []
+    },
+    "Media/LightWavelengths.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 329380,
+      "exportedPath": "media/lightwavelengths.png",
+      "dependencies": []
+    },
+    "Media/MilkNutrients1.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 48279,
+      "exportedPath": "media/milknutrients1.png",
+      "dependencies": []
+    },
+    "Media/MilkNutrients2.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 25582,
+      "exportedPath": "media/milknutrients2.png",
+      "dependencies": []
+    },
+    "Media/MilkNutrients3.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 58109,
+      "exportedPath": "media/milknutrients3.png",
+      "dependencies": []
+    },
+    "Media/MilkNutrients4.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 61953,
+      "exportedPath": "media/milknutrients4.png",
+      "dependencies": []
+    },
+    "Media/Pasted image 20240630073438.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 57980,
+      "exportedPath": "media/pasted-image-20240630073438.png",
+      "dependencies": []
+    },
+    "Media/Pasted image 20240630074301.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 62654,
+      "exportedPath": "media/pasted-image-20240630074301.png",
+      "dependencies": []
+    },
+    "Media/Pasted image 20240630074350.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 6954,
+      "exportedPath": "media/pasted-image-20240630074350.png",
+      "dependencies": []
+    },
+    "Media/SaturatedUnsaturatedFats.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 320785,
+      "exportedPath": "media/saturatedunsaturatedfats.png",
+      "dependencies": []
+    },
+    "Media/SebaceousGland.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 455483,
+      "exportedPath": "media/sebaceousgland.png",
+      "dependencies": []
+    },
+    "Media/ToothpasteWarningLable.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 163075,
+      "exportedPath": "media/toothpastewarninglable.png",
+      "dependencies": []
+    },
+    "Media/ToothWithCavity.jpeg": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 20497,
+      "exportedPath": "media/toothwithcavity.jpeg",
+      "dependencies": []
+    },
+    "Media/WaterChemistry.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 75257,
+      "exportedPath": "media/waterchemistry.png",
+      "dependencies": []
+    },
+    "Notes/7 pillars of Health - Andrew Huberman.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 491,
+      "exportedPath": "notes/7-pillars-of-health-andrew-huberman.html",
+      "dependencies": []
+    },
+    "Notes/ADP (adenosine triphosphate).md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 183,
+      "exportedPath": "notes/adp-(adenosine-triphosphate).html",
+      "dependencies": []
+    },
+    "Notes/All about dairy.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 8694,
+      "exportedPath": "notes/all-about-dairy.html",
+      "dependencies": [
+        "lib/media/milknutrients1.png",
+        "lib/media/milknutrients2.png",
+        "lib/media/milknutrients4.png",
+        "lib/media/milknutrients3.png",
+        "lib/media/colostrumvsmaturemilk.png"
+      ]
+    },
+    "Notes/Anti Nutrients.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 207,
+      "exportedPath": "notes/anti-nutrients.html",
+      "dependencies": []
+    },
+    "Notes/Blood work.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 398,
+      "exportedPath": "notes/blood-work.html",
+      "dependencies": []
+    },
+    "Notes/Breathwork.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1310,
+      "exportedPath": "notes/breathwork.html",
+      "dependencies": []
+    },
+    "Notes/Caffeine.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 6141,
+      "exportedPath": "notes/caffeine.html",
+      "dependencies": []
+    },
+    "Notes/Carbonated Water.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 695,
+      "exportedPath": "notes/carbonated-water.html",
+      "dependencies": []
+    },
+    "Notes/Chamomile.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 78,
+      "exportedPath": "notes/chamomile.html",
+      "dependencies": []
+    },
+    "Notes/Cold Exposure.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2744,
+      "exportedPath": "notes/cold-exposure.html",
+      "dependencies": []
+    },
+    "Notes/Cortisol.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1013,
+      "exportedPath": "notes/cortisol.html",
+      "dependencies": []
+    },
+    "Notes/Dandruff.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1904,
+      "exportedPath": "notes/dandruff.html",
+      "dependencies": []
+    },
+    "Notes/Dehydration.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 959,
+      "exportedPath": "notes/dehydration.html",
+      "dependencies": []
+    },
+    "Notes/Dopamin.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 642,
+      "exportedPath": "notes/dopamin.html",
+      "dependencies": []
+    },
+    "Notes/Dopamine Stacking.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 528,
+      "exportedPath": "notes/dopamine-stacking.html",
+      "dependencies": []
+    },
+    "Notes/Dry & Oily hair.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1444,
+      "exportedPath": "notes/dry-&-oily-hair.html",
+      "dependencies": [
+        "lib/media/sebaceousgland.png"
+      ]
+    },
+    "Notes/Dry Eyes.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 0,
+      "exportedPath": "notes/dry-eyes.html",
+      "dependencies": []
+    },
+    "Notes/Dry Lips.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1901,
+      "exportedPath": "notes/dry-lips.html",
+      "dependencies": []
+    },
+    "Notes/Fermented food.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2288,
+      "exportedPath": "notes/fermented-food.html",
+      "dependencies": []
+    },
+    "Notes/Fluoride.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2839,
+      "exportedPath": "notes/fluoride.html",
+      "dependencies": [
+        "lib/media/toothpastewarninglable.png"
+      ]
+    },
+    "Notes/Food labels.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 967,
+      "exportedPath": "notes/food-labels.html",
+      "dependencies": []
+    },
+    "Notes/Free Radicals.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 216,
+      "exportedPath": "notes/free-radicals.html",
+      "dependencies": []
+    },
+    "Notes/Fruits.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 0,
+      "exportedPath": "notes/fruits.html",
+      "dependencies": []
+    },
+    "Notes/GLP-1.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1399,
+      "exportedPath": "notes/glp-1.html",
+      "dependencies": []
+    },
+    "Notes/Grass Fed vs. Grain Fed.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2288,
+      "exportedPath": "notes/grass-fed-vs.-grain-fed.html",
+      "dependencies": []
+    },
+    "Notes/Green tea.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 270,
+      "exportedPath": "notes/green-tea.html",
+      "dependencies": []
+    },
+    "Notes/Grounding.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1729,
+      "exportedPath": "notes/grounding.html",
+      "dependencies": [
+        "lib/media/bloodwithgrounding.png"
+      ]
+    },
+    "Notes/Honey.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1721,
+      "exportedPath": "notes/honey.html",
+      "dependencies": []
+    },
+    "Notes/How metabolism works.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 12127,
+      "exportedPath": "notes/how-metabolism-works.html",
+      "dependencies": []
+    },
+    "Notes/How salt impacts our body.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 3337,
+      "exportedPath": "notes/how-salt-impacts-our-body.html",
+      "dependencies": []
+    },
+    "Notes/How to build muscle.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 151,
+      "exportedPath": "notes/how-to-build-muscle.html",
+      "dependencies": []
+    },
+    "Notes/Hydrogen enriched water.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1061,
+      "exportedPath": "notes/hydrogen-enriched-water.html",
+      "dependencies": []
+    },
+    "Notes/Infrared Sauna.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 316,
+      "exportedPath": "notes/infrared-sauna.html",
+      "dependencies": []
+    },
+    "Notes/Intermitten Fasting.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 3562,
+      "exportedPath": "notes/intermitten-fasting.html",
+      "dependencies": []
+    },
+    "Notes/Lactose.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 226,
+      "exportedPath": "notes/lactose.html",
+      "dependencies": []
+    },
+    "Notes/Lean Meat.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 511,
+      "exportedPath": "notes/lean-meat.html",
+      "dependencies": []
+    },
+    "Notes/Light and its Health benefits.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 8395,
+      "exportedPath": "notes/light-and-its-health-benefits.html",
+      "dependencies": [
+        "lib/media/lightwavelengths.png"
+      ]
+    },
+    "Notes/Mitochondria.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 553,
+      "exportedPath": "notes/mitochondria.html",
+      "dependencies": []
+    },
+    "Notes/Omega 3 vs Omega 6.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 8897,
+      "exportedPath": "notes/omega-3-vs-omega-6.html",
+      "dependencies": [
+        "lib/media/saturatedunsaturatedfats.png",
+        "lib/media/dietarysourcesomega-3.png",
+        "lib/media/dietarysourcesomega-6.png"
+      ]
+    },
+    "Notes/Oral Health.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 6082,
+      "exportedPath": "notes/oral-health.html",
+      "dependencies": [
+        "lib/media/healthytooth.jpeg",
+        "lib/media/toothwithcavity.jpeg"
+      ]
+    },
+    "Notes/Organelles.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 172,
+      "exportedPath": "notes/organelles.html",
+      "dependencies": []
+    },
+    "Notes/Organic Chemistry.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1669,
+      "exportedPath": "notes/organic-chemistry.html",
+      "dependencies": []
+    },
+    "Notes/Protein.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1872,
+      "exportedPath": "notes/protein.html",
+      "dependencies": []
+    },
+    "Notes/Red Light Therapy.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2350,
+      "exportedPath": "notes/red-light-therapy.html",
+      "dependencies": []
+    },
+    "Notes/Reinforce and Aversive Agents.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 446,
+      "exportedPath": "notes/reinforce-and-aversive-agents.html",
+      "dependencies": []
+    },
+    "Notes/Sleep.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1674,
+      "exportedPath": "notes/sleep.html",
+      "dependencies": []
+    },
+    "Notes/Sunlight.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 74,
+      "exportedPath": "notes/sunlight.html",
+      "dependencies": []
+    },
+    "Notes/Sunscreen.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1066,
+      "exportedPath": "notes/sunscreen.html",
+      "dependencies": []
+    },
+    "Notes/The modern diet and its problems.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1877,
+      "exportedPath": "notes/the-modern-diet-and-its-problems.html",
+      "dependencies": []
+    },
+    "Notes/The power of little promises.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 0,
+      "exportedPath": "notes/the-power-of-little-promises.html",
+      "dependencies": []
+    },
+    "Notes/Theanine.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 702,
+      "exportedPath": "notes/theanine.html",
+      "dependencies": []
+    },
+    "Notes/Vegetables.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1665,
+      "exportedPath": "notes/vegetables.html",
+      "dependencies": []
+    },
+    "Notes/Vitamin D3.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 314,
+      "exportedPath": "notes/vitamin-d3.html",
+      "dependencies": []
+    },
+    "Notes/Water.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 7528,
+      "exportedPath": "notes/water.html",
+      "dependencies": [
+        "lib/media/waterchemistry.png",
+        "lib/media/aquaporin.png"
+      ]
+    },
+    "Notes/Water Filtration.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 954,
+      "exportedPath": "notes/water-filtration.html",
+      "dependencies": []
+    },
+    "Source Notes/(Comparison between the Effect of Cow Ghee and Butter on Memory and Lipid Profile of Wistar Rats.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1603,
+      "exportedPath": "source-notes/(comparison-between-the-effect-of-cow-ghee-and-butter-on-memory-and-lipid-profile-of-wistar-rats.html",
+      "dependencies": []
+    },
+    "Source Notes/(Effects of Omega-3-Rich Pork Lard on Serum Lipid Profile and Gut Microbiome in C57BL6NJ Mice.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2401,
+      "exportedPath": "source-notes/(effects-of-omega-3-rich-pork-lard-on-serum-lipid-profile-and-gut-microbiome-in-c57bl6nj-mice.html",
+      "dependencies": []
+    },
+    "Source Notes/(Safety of raw dairy.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 949,
+      "exportedPath": "source-notes/(safety-of-raw-dairy.html",
+      "dependencies": []
+    },
+    "Source Notes/(The Importance of Maintaining a Low Omega-6 Omega-3 Ratio for Reducing the Risk of Autoimmune Diseases, Asthma, and Allergies.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 974,
+      "exportedPath": "source-notes/(the-importance-of-maintaining-a-low-omega-6-omega-3-ratio-for-reducing-the-risk-of-autoimmune-diseases,-asthma,-and-allergies.html",
+      "dependencies": [
+        "lib/media/dietarysourcesomega-3.png",
+        "lib/media/dietarysourcesomega-6.png"
+      ]
+    },
+    "Source Notes/+5 Things Your LIPS Can Tell You about Your Nutritional State.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2334,
+      "exportedPath": "source-notes/+5-things-your-lips-can-tell-you-about-your-nutritional-state.html",
+      "dependencies": []
+    },
+    "Source Notes/+7 Best Sources of DHA & EPA Essential Omega-3 Fatty Acids.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1914,
+      "exportedPath": "source-notes/+7-best-sources-of-dha-&-epa-essential-omega-3-fatty-acids.html",
+      "dependencies": []
+    },
+    "Source Notes/+7 DHA-rich Foods (And 3 Fakers with NONE) Best Omega-3 - 2024.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1562,
+      "exportedPath": "source-notes/+7-dha-rich-foods-(and-3-fakers-with-none)-best-omega-3-2024.html",
+      "dependencies": []
+    },
+    "Source Notes/+Are Vegetables Actually Toxic.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2015,
+      "exportedPath": "source-notes/+are-vegetables-actually-toxic.html",
+      "dependencies": []
+    },
+    "Source Notes/+Are vegetables really bad for us.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1064,
+      "exportedPath": "source-notes/+are-vegetables-really-bad-for-us.html",
+      "dependencies": []
+    },
+    "Source Notes/+Breathwork - Ultimate Human Short.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1577,
+      "exportedPath": "source-notes/+breathwork-ultimate-human-short.html",
+      "dependencies": []
+    },
+    "Source Notes/+Broccoli - Could It Be Harming You.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1361,
+      "exportedPath": "source-notes/+broccoli-could-it-be-harming-you.html",
+      "dependencies": []
+    },
+    "Source Notes/+Cold Water Exposure for Fat Burning, Mood Boosts, and More - Ultimate Human Short with Gary Brecka.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2003,
+      "exportedPath": "source-notes/+cold-water-exposure-for-fat-burning,-mood-boosts,-and-more-ultimate-human-short-with-gary-brecka.html",
+      "dependencies": []
+    },
+    "Source Notes/+Dairy good or bad for humans.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 5404,
+      "exportedPath": "source-notes/+dairy-good-or-bad-for-humans.html",
+      "dependencies": []
+    },
+    "Source Notes/+Did our ancestors eat vegetables.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 925,
+      "exportedPath": "source-notes/+did-our-ancestors-eat-vegetables.html",
+      "dependencies": []
+    },
+    "Source Notes/+Do NOT cook with these oils.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 550,
+      "exportedPath": "source-notes/+do-not-cook-with-these-oils.html",
+      "dependencies": []
+    },
+    "Source Notes/+Do we need vegetables for a healthy gut.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1215,
+      "exportedPath": "source-notes/+do-we-need-vegetables-for-a-healthy-gut.html",
+      "dependencies": []
+    },
+    "Source Notes/+Dr. Mike Israetel - Build Muscle Faster than 99 of people by doing this.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1895,
+      "exportedPath": "source-notes/+dr.-mike-israetel-build-muscle-faster-than-99-of-people-by-doing-this.html",
+      "dependencies": []
+    },
+    "Source Notes/+Dr. Paul Saladino Claims Oatmeal is the Most Dangerous Food Humans can Eat (and Oat Milk).md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2398,
+      "exportedPath": "source-notes/+dr.-paul-saladino-claims-oatmeal-is-the-most-dangerous-food-humans-can-eat-(and-oat-milk).html",
+      "dependencies": []
+    },
+    "Source Notes/+Dr. Paul Saladino's Animal-Based Diet 101 - A step-by-step guide.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2312,
+      "exportedPath": "source-notes/+dr.-paul-saladino's-animal-based-diet-101-a-step-by-step-guide.html",
+      "dependencies": []
+    },
+    "Source Notes/+Dr. Robert Lustig How Sugar & Processed Food Impacts your health - Huberman Lab Podcast.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 19793,
+      "exportedPath": "source-notes/+dr.-robert-lustig-how-sugar-&-processed-food-impacts-your-health-huberman-lab-podcast.html",
+      "dependencies": []
+    },
+    "Source Notes/+Drinking Water is not the best way to stay hydrated.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1964,
+      "exportedPath": "source-notes/+drinking-water-is-not-the-best-way-to-stay-hydrated.html",
+      "dependencies": []
+    },
+    "Source Notes/+Fasting for Detoxification and Longevity Ancient Wisdom Meets Modern Science - Ultimate Human Short.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2364,
+      "exportedPath": "source-notes/+fasting-for-detoxification-and-longevity-ancient-wisdom-meets-modern-science-ultimate-human-short.html",
+      "dependencies": []
+    },
+    "Source Notes/+Gary Brecka’s 8 Methods to Increase Longevity on a Budget.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1314,
+      "exportedPath": "source-notes/+gary-brecka’s-8-methods-to-increase-longevity-on-a-budget.html",
+      "dependencies": []
+    },
+    "Source Notes/+Gastroenterologist Destroys Vegetable Concerns - Lectins, Phytic Acid, Anti Nutrients.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 3126,
+      "exportedPath": "source-notes/+gastroenterologist-destroys-vegetable-concerns-lectins,-phytic-acid,-anti-nutrients.html",
+      "dependencies": []
+    },
+    "Source Notes/+Grass-Fed vs. Grass-Finished Beef – Dr. Berg.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 950,
+      "exportedPath": "source-notes/+grass-fed-vs.-grass-finished-beef-–-dr.-berg.html",
+      "dependencies": []
+    },
+    "Source Notes/+GROUNDING - Ultimate Human Short.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1711,
+      "exportedPath": "source-notes/+grounding-ultimate-human-short.html",
+      "dependencies": []
+    },
+    "Source Notes/+He Can Predict When YOU DIE How To HEAL Your Inflammation & Fix Your Health - Gary Brecka.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 7335,
+      "exportedPath": "source-notes/+he-can-predict-when-you-die-how-to-heal-your-inflammation-&-fix-your-health-gary-brecka.html",
+      "dependencies": []
+    },
+    "Source Notes/+Here’s What Eating Dairy EVERY DAY Does to Your Stomach Fat, Brain, and Gut.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2665,
+      "exportedPath": "source-notes/+here’s-what-eating-dairy-every-day-does-to-your-stomach-fat,-brain,-and-gut.html",
+      "dependencies": []
+    },
+    "Source Notes/+HONEY -vs- High-Fructose Corn Syrup (Is Honey Healthier) 2024.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1322,
+      "exportedPath": "source-notes/+honey-vs-high-fructose-corn-syrup-(is-honey-healthier)-2024.html",
+      "dependencies": []
+    },
+    "Source Notes/+How Does Blue Light & Other Light Affect Your Sleep - Dr. Andrew Huberman.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1406,
+      "exportedPath": "source-notes/+how-does-blue-light-&-other-light-affect-your-sleep-dr.-andrew-huberman.html",
+      "dependencies": []
+    },
+    "Source Notes/+How Gary Brecka Fixed Dana White's Health.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2161,
+      "exportedPath": "source-notes/+how-gary-brecka-fixed-dana-white's-health.html",
+      "dependencies": []
+    },
+    "Source Notes/+How To Fix Your Chapped Lips – Dr.Berg On Remedy For Chapped Lips.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1470,
+      "exportedPath": "source-notes/+how-to-fix-your-chapped-lips-–-dr.berg-on-remedy-for-chapped-lips.html",
+      "dependencies": []
+    },
+    "Source Notes/+How to Improve Oral Health & Its Critical Role in Brain & Body Health.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 11838,
+      "exportedPath": "source-notes/+how-to-improve-oral-health-&-its-critical-role-in-brain-&-body-health.html",
+      "dependencies": []
+    },
+    "Source Notes/+How to make homemade animal-based sunscreen.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1916,
+      "exportedPath": "source-notes/+how-to-make-homemade-animal-based-sunscreen.html",
+      "dependencies": []
+    },
+    "Source Notes/+How to Optimize your water Quality & Intake for health - Huberman Lab Podcast.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 16219,
+      "exportedPath": "source-notes/+how-to-optimize-your-water-quality-&-intake-for-health-huberman-lab-podcast.html",
+      "dependencies": []
+    },
+    "Source Notes/+How to Read Ingredient Labels & What To Avoid - Ultimate Human Short with Gary Brecka.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1563,
+      "exportedPath": "source-notes/+how-to-read-ingredient-labels-&-what-to-avoid-ultimate-human-short-with-gary-brecka.html",
+      "dependencies": []
+    },
+    "Source Notes/+Huberman - CARNIVORE and VEGAN diets are detrimental for young MALES.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1171,
+      "exportedPath": "source-notes/+huberman-carnivore-and-vegan-diets-are-detrimental-for-young-males.html",
+      "dependencies": []
+    },
+    "Source Notes/+I Was WRONG About Veggies (Plant Problems) 2024.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1050,
+      "exportedPath": "source-notes/+i-was-wrong-about-veggies-(plant-problems)-2024.html",
+      "dependencies": []
+    },
+    "Source Notes/+Is DAIRY Scary Inflammation & Obesity Concerns - 2024.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1559,
+      "exportedPath": "source-notes/+is-dairy-scary-inflammation-&-obesity-concerns-2024.html",
+      "dependencies": []
+    },
+    "Source Notes/+Is Fluoride Lowering IQs Why Tap Water Needs to Be Filtered From Your Life For Good - Gary Brecka.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2674,
+      "exportedPath": "source-notes/+is-fluoride-lowering-iqs-why-tap-water-needs-to-be-filtered-from-your-life-for-good-gary-brecka.html",
+      "dependencies": []
+    },
+    "Source Notes/+Is Honey a Better Substitute for Sugar.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 723,
+      "exportedPath": "source-notes/+is-honey-a-better-substitute-for-sugar.html",
+      "dependencies": []
+    },
+    "Source Notes/+Is it safe to use apple cider vinegar for hair - Dr. Berg.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 797,
+      "exportedPath": "source-notes/+is-it-safe-to-use-apple-cider-vinegar-for-hair-dr.-berg.html",
+      "dependencies": []
+    },
+    "Source Notes/+Keto Diet Water and Electrolytes are Essential - Andrew Huberman and Lex Fridman.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 942,
+      "exportedPath": "source-notes/+keto-diet-water-and-electrolytes-are-essential-andrew-huberman-and-lex-fridman.html",
+      "dependencies": []
+    },
+    "Source Notes/+Natural Dentist Reveals the CLEANEST Toothpaste on the Planet - Dr. Mark Burhenne.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1419,
+      "exportedPath": "source-notes/+natural-dentist-reveals-the-cleanest-toothpaste-on-the-planet-dr.-mark-burhenne.html",
+      "dependencies": []
+    },
+    "Source Notes/+Natural Sunscreen Recipe – Dr. Berg.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 839,
+      "exportedPath": "source-notes/+natural-sunscreen-recipe-–-dr.-berg.html",
+      "dependencies": []
+    },
+    "Source Notes/+New Fascinating Research on Grass-Fed Beef.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1329,
+      "exportedPath": "source-notes/+new-fascinating-research-on-grass-fed-beef.html",
+      "dependencies": []
+    },
+    "Source Notes/+Omega-3 and Omega-6 Fatty Acids Food Sources and Inflammation.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1597,
+      "exportedPath": "source-notes/+omega-3-and-omega-6-fatty-acids-food-sources-and-inflammation.html",
+      "dependencies": []
+    },
+    "Source Notes/+Paul Saladino Added Rice & Potatoes to His Diet (and this happened).md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 4378,
+      "exportedPath": "source-notes/+paul-saladino-added-rice-&-potatoes-to-his-diet-(and-this-happened).html",
+      "dependencies": []
+    },
+    "Source Notes/+Phytic acid and anti-nutrients.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1099,
+      "exportedPath": "source-notes/+phytic-acid-and-anti-nutrients.html",
+      "dependencies": []
+    },
+    "Source Notes/+Polyunsaturated Fats Breakdown- Omega-3’s vs Omega-6’s.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1306,
+      "exportedPath": "source-notes/+polyunsaturated-fats-breakdown-omega-3’s-vs-omega-6’s.html",
+      "dependencies": []
+    },
+    "Source Notes/+Recover Faster, Fight Neurological Issues & Reverse Signs of Aging with Red Light Therapy.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2355,
+      "exportedPath": "source-notes/+recover-faster,-fight-neurological-issues-&-reverse-signs-of-aging-with-red-light-therapy.html",
+      "dependencies": []
+    },
+    "Source Notes/+Seed Oils, The Dirty 8 That Are Destroying Your Health - Ultimate Human Short with Gary Brecka.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 3948,
+      "exportedPath": "source-notes/+seed-oils,-the-dirty-8-that-are-destroying-your-health-ultimate-human-short-with-gary-brecka.html",
+      "dependencies": []
+    },
+    "Source Notes/+Should You AVOID DAIRY - GRASS-FED Vs. NON - GRASS-FED.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 943,
+      "exportedPath": "source-notes/+should-you-avoid-dairy-grass-fed-vs.-non-grass-fed.html",
+      "dependencies": []
+    },
+    "Source Notes/+Sleep - Hacks, Supplements, and Routines for Better Sleep - Ultimate Human Short with Gary Brecka.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2193,
+      "exportedPath": "source-notes/+sleep-hacks,-supplements,-and-routines-for-better-sleep-ultimate-human-short-with-gary-brecka.html",
+      "dependencies": []
+    },
+    "Source Notes/+The 9 Most Nutrient Dense Vegetables with ZERO Downsides (no oxalates or anti-nutrients).md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1835,
+      "exportedPath": "source-notes/+the-9-most-nutrient-dense-vegetables-with-zero-downsides-(no-oxalates-or-anti-nutrients).html",
+      "dependencies": []
+    },
+    "Source Notes/+The BEST and WORST Fermented Foods for Gut Health (avoid number 3).md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2536,
+      "exportedPath": "source-notes/+the-best-and-worst-fermented-foods-for-gut-health-(avoid-number-3).html",
+      "dependencies": []
+    },
+    "Source Notes/+The Best Natural Sources of Omega-3 Fatty Acids – Dr. Berg.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1045,
+      "exportedPath": "source-notes/+the-best-natural-sources-of-omega-3-fatty-acids-–-dr.-berg.html",
+      "dependencies": []
+    },
+    "Source Notes/+The Best Protein Sources for Longevity - Dr. Paul Saladino Ranks Best to Worst.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2868,
+      "exportedPath": "source-notes/+the-best-protein-sources-for-longevity-dr.-paul-saladino-ranks-best-to-worst.html",
+      "dependencies": []
+    },
+    "Source Notes/+The Fascinating Benefits of RAW MILK Dairy.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1819,
+      "exportedPath": "source-notes/+the-fascinating-benefits-of-raw-milk-dairy.html",
+      "dependencies": []
+    },
+    "Source Notes/+The Health Benefits of Honey – Dr.Berg.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 896,
+      "exportedPath": "source-notes/+the-health-benefits-of-honey-–-dr.berg.html",
+      "dependencies": []
+    },
+    "Source Notes/+The MOST Important Intermittent Fasting Basics for Beginners MUST WATCH - Dr. Berg.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 3645,
+      "exportedPath": "source-notes/+the-most-important-intermittent-fasting-basics-for-beginners-must-watch-dr.-berg.html",
+      "dependencies": []
+    },
+    "Source Notes/+The problem with eating plants.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2405,
+      "exportedPath": "source-notes/+the-problem-with-eating-plants.html",
+      "dependencies": []
+    },
+    "Source Notes/+The real cause and cure for dandruff.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2593,
+      "exportedPath": "source-notes/+the-real-cause-and-cure-for-dandruff.html",
+      "dependencies": []
+    },
+    "Source Notes/+This SUPERFOOD is ILLEGAL All about RAW MILK.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2227,
+      "exportedPath": "source-notes/+this-superfood-is-illegal-all-about-raw-milk.html",
+      "dependencies": []
+    },
+    "Source Notes/+Use Probiotics for Dandruff.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1488,
+      "exportedPath": "source-notes/+use-probiotics-for-dandruff.html",
+      "dependencies": []
+    },
+    "Source Notes/+Using Caffeine to Optimize Mental & Physical Performance - Huberman Lab Podcast 101.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 13272,
+      "exportedPath": "source-notes/+using-caffeine-to-optimize-mental-&-physical-performance-huberman-lab-podcast-101.html",
+      "dependencies": []
+    },
+    "Source Notes/+Using Light (Sunlight, Blue Light & Red Light) to Optimize Health - Huberman Lab Podcast 68.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 14614,
+      "exportedPath": "source-notes/+using-light-(sunlight,-blue-light-&-red-light)-to-optimize-health-huberman-lab-podcast-68.html",
+      "dependencies": []
+    },
+    "Source Notes/+Using Salt to Optimize Mental & Physical Performance - Huberman Lab Podcast 63.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 13401,
+      "exportedPath": "source-notes/+using-salt-to-optimize-mental-&-physical-performance-huberman-lab-podcast-63.html",
+      "dependencies": []
+    },
+    "Source Notes/+Vitamin Deficiencies that cause dry or oily hair - Dr. Berg.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2116,
+      "exportedPath": "source-notes/+vitamin-deficiencies-that-cause-dry-or-oily-hair-dr.-berg.html",
+      "dependencies": []
+    },
+    "Source Notes/+Wearing Blue Blocking Glasses is NOT a Dumb Idea - Here’s Why.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1285,
+      "exportedPath": "source-notes/+wearing-blue-blocking-glasses-is-not-a-dumb-idea-here’s-why.html",
+      "dependencies": []
+    },
+    "Source Notes/+What is fluoride really.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1371,
+      "exportedPath": "source-notes/+what-is-fluoride-really.html",
+      "dependencies": []
+    },
+    "Source Notes/+Which Fermented Foods Can You Eat on Ketogenic Diet – Dr. Berg.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1040,
+      "exportedPath": "source-notes/+which-fermented-foods-can-you-eat-on-ketogenic-diet-–-dr.-berg.html",
+      "dependencies": []
+    },
+    "Source Notes/+Why Blue Light Blockers Are A Scam.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 748,
+      "exportedPath": "source-notes/+why-blue-light-blockers-are-a-scam.html",
+      "dependencies": []
+    },
+    "Source Notes/+Why Gary Brecka Changed his Mind on Keto, Fasting, and 3 other things.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2594,
+      "exportedPath": "source-notes/+why-gary-brecka-changed-his-mind-on-keto,-fasting,-and-3-other-things.html",
+      "dependencies": []
+    },
+    "Source Notes/+Why Grass Fed vs. Grain Fed - Dr. Berg.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1386,
+      "exportedPath": "source-notes/+why-grass-fed-vs.-grain-fed-dr.-berg.html",
+      "dependencies": []
+    },
+    "Source Notes/+Why grass-finished meat is better.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 975,
+      "exportedPath": "source-notes/+why-grass-finished-meat-is-better.html",
+      "dependencies": []
+    },
+    "Source Notes/+Why I Quit Keto and What I Wish I Did Differently (sincerely).md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1691,
+      "exportedPath": "source-notes/+why-i-quit-keto-and-what-i-wish-i-did-differently-(sincerely).html",
+      "dependencies": []
+    },
+    "Source Notes/+Why I Quit The Carnivore Diet.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 3140,
+      "exportedPath": "source-notes/+why-i-quit-the-carnivore-diet.html",
+      "dependencies": []
+    },
+    "Source Notes/+Why Paul Saladino Quit Carnivore & Now Eats 300g of Carbs Per Day.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1136,
+      "exportedPath": "source-notes/+why-paul-saladino-quit-carnivore-&-now-eats-300g-of-carbs-per-day.html",
+      "dependencies": []
+    },
+    "Source Notes/+Why Paul Saladino, MD Quit A 100 Carnivore Diet, Impacts of Cholesterol, And the Value of Insulin.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 7067,
+      "exportedPath": "source-notes/+why-paul-saladino,-md-quit-a-100-carnivore-diet,-impacts-of-cholesterol,-and-the-value-of-insulin.html",
+      "dependencies": []
+    },
+    "Source Notes/+Why You Should Drink Carbonated Water.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1152,
+      "exportedPath": "source-notes/+why-you-should-drink-carbonated-water.html",
+      "dependencies": []
+    },
+    "Source Notes/+World No.1 Biohacking Expert Tested 100,000 People's DNA. This Diet Will Kill You - Gary Brecka.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 7754,
+      "exportedPath": "source-notes/+world-no.1-biohacking-expert-tested-100,000-people's-dna.-this-diet-will-kill-you-gary-brecka.html",
+      "dependencies": []
+    },
+    "Tools/Tool - Breathwork.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1070,
+      "exportedPath": "tools/tool-breathwork.html",
+      "dependencies": []
+    },
+    "Tools/Tool - Diet.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 881,
+      "exportedPath": "tools/tool-diet.html",
+      "dependencies": []
+    },
+    "Tools/Tool - Evening routine.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1226,
+      "exportedPath": "tools/tool-evening-routine.html",
+      "dependencies": []
+    },
+    "Tools/Tool - Hydration.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 260,
+      "exportedPath": "tools/tool-hydration.html",
+      "dependencies": []
+    },
+    "Tools/Tool - Morning Routine.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1498,
+      "exportedPath": "tools/tool-morning-routine.html",
+      "dependencies": []
+    },
+    "Tools/Tool - Toothcare Routine.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1559,
+      "exportedPath": "tools/tool-toothcare-routine.html",
+      "dependencies": []
+    },
+    "Tools/Tool - Waking up early the easy way.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1220,
+      "exportedPath": "tools/tool-waking-up-early-the-easy-way.html",
+      "dependencies": []
+    },
+    "Recommended Products.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 1346,
+      "exportedPath": "recommended-products.html",
+      "dependencies": []
+    },
+    "Welcome to Healthside.md": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 2376,
+      "exportedPath": "welcome-to-healthside.html",
+      "dependencies": [
+        "media/interface.png"
+      ]
+    },
+    "lib/media/milknutrients1.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 48279,
+      "exportedPath": "lib/media/milknutrients1.png",
+      "dependencies": []
+    },
+    "lib/media/milknutrients2.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 25582,
+      "exportedPath": "lib/media/milknutrients2.png",
+      "dependencies": []
+    },
+    "lib/media/milknutrients4.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 61953,
+      "exportedPath": "lib/media/milknutrients4.png",
+      "dependencies": []
+    },
+    "lib/media/milknutrients3.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 58109,
+      "exportedPath": "lib/media/milknutrients3.png",
+      "dependencies": []
+    },
+    "lib/media/colostrumvsmaturemilk.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 41033,
+      "exportedPath": "lib/media/colostrumvsmaturemilk.png",
+      "dependencies": []
+    },
+    "lib/media/sebaceousgland.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 455483,
+      "exportedPath": "lib/media/sebaceousgland.png",
+      "dependencies": []
+    },
+    "lib/media/toothpastewarninglable.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 163075,
+      "exportedPath": "lib/media/toothpastewarninglable.png",
+      "dependencies": []
+    },
+    "lib/media/bloodwithgrounding.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 849152,
+      "exportedPath": "lib/media/bloodwithgrounding.png",
+      "dependencies": []
+    },
+    "lib/media/lightwavelengths.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 329380,
+      "exportedPath": "lib/media/lightwavelengths.png",
+      "dependencies": []
+    },
+    "lib/media/saturatedunsaturatedfats.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 320785,
+      "exportedPath": "lib/media/saturatedunsaturatedfats.png",
+      "dependencies": []
+    },
+    "lib/media/dietarysourcesomega-3.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 17918,
+      "exportedPath": "lib/media/dietarysourcesomega-3.png",
+      "dependencies": []
+    },
+    "lib/media/dietarysourcesomega-6.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 17386,
+      "exportedPath": "lib/media/dietarysourcesomega-6.png",
+      "dependencies": []
+    },
+    "lib/media/healthytooth.jpeg": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 34316,
+      "exportedPath": "lib/media/healthytooth.jpeg",
+      "dependencies": []
+    },
+    "lib/media/toothwithcavity.jpeg": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 20497,
+      "exportedPath": "lib/media/toothwithcavity.jpeg",
+      "dependencies": []
+    },
+    "lib/media/waterchemistry.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 75257,
+      "exportedPath": "lib/media/waterchemistry.png",
+      "dependencies": []
+    },
+    "lib/media/aquaporin.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 460663,
+      "exportedPath": "lib/media/aquaporin.png",
+      "dependencies": []
+    },
+    "media/interface.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 153304,
+      "exportedPath": "media/interface.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 71401,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 49390,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 18962,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 157292,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 311,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1720119661860,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
