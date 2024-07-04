@@ -23,7 +23,7 @@
  // Download button
  document.getElementById('downloadButton').addEventListener('click', function() {
  var a = document.createElement('a');
- a.href = 'https://maccram.github.io/Healthside/Download/Healthside_v1.0-Beta.zip'; 
+ a.href = 'https://maccram.github.io/Healthside/Downloads/Healthside_v1.0-Beta.zip'; 
  a.download = 'Healthside_v1.0-Beta.zip';
  document.body.appendChild(a);
  a.click();
