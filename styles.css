@@ -1,22 +1,21 @@
 body {
     background-color: #f0f0f0;
-    background-image: url('https://maccram.github.io/Healthside/Background-Image.png');
-    background-size: cover;
+    background-image: url('Background-Image.png'); /* Default background image */
+    background-size: cover; /* Ensures the image always covers the entire background */
     background-repeat: no-repeat;
+    background-position: center center; /* Keeps the background centered */
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
 }
 
-#typewriter {
-    border-right: 2px solid transparent; /* Makes the cursor invisible */
-    padding-right: 5px; /* Keeps some space for the cursor */
+.viewHeight {
+    flex: 1; /* Allows the main content to expand to fill the available space */
 }
 
 .navbar {
     height: 50px;
-}
-
-.viewHeight {
-    /* Your CSS properties here */
-    min-height: calc(100vh - 100px); /* Example property: make the element take the full viewport height */
 }
 
 .heading {
@@ -25,3 +24,84 @@ body {
     font-family: "Inter";
     font-weight: 700;
 }
+
+#typewriter {
+    border-right: 2px solid transparent; /* Makes the cursor invisible */
+    padding-right: 5px; /* Keeps some space for the cursor */
+}
+
+/* Media Queries for Small Adjustments */
+@media (max-width: 1280px) {
+    .heading {
+        font-size: 36px; /* Slightly smaller heading for smaller screens */
+    }
+}
+
+@media (max-width: 768px) {
+    .heading {
+        font-size: 32px; /* Further reduce the heading size */
+    }
+}
+
+@media (max-width: 640px) {
+    body {
+        background-image: url('Background-Image-640.png'); /* Secondary background image for smaller screens */
+        background-size: cover; /* Ensure the background image covers the viewport */
+        background-position: center center; /* Center the background image */
+    }
+
+    .heading {
+        font-size: 28px; /* Adjust for mobile screens */
+    }
+
+    .navbar {
+        height: 45px; /* Slightly reduce navbar height on small screens */
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        background-image: url('Background-Image-480.png'); /* Secondary background image for smaller screens */
+        background-size: cover; /* Ensure the background image covers the viewport */
+        background-position: center center; /* Center the background image */
+    }
+
+    .heading {
+        font-size: 24px; /* Adjust for very small screens */
+    }
+
+    .navbar {
+        height: 40px; /* Further reduce navbar height on very small screens */
+    }
+}
+
+@media (max-width: 430px) {
+    .row .col.mt-2 {
+        display: flex;
+        flex-direction: column; /* Stack buttons vertically */
+        align-items: center; /* Center the buttons horizontally */
+    }
+
+    .btn + .btn {
+        margin-top: 15px; /* Add space between the two buttons */
+    }
+
+    .navbar-text {
+        font-size: 14px; /* Make the footer text smaller */
+    }
+}
+
+@media (max-width: 400px) {
+    body {
+        background-image: url('Background-Image-400.png'); /* Secondary background image for smaller screens */
+        background-size: cover; /* Ensure the background image covers the viewport */
+        background-position: center center; /* Center the background image */
+    }
+}
+
+@media (max-width: 320px) {
+    .navbar-text {
+        font-size: 12px; /* Further reduce the footer text size for very small screens */
+    }
+}
+
