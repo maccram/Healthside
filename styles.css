@@ -99,9 +99,9 @@ body {
     }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 360px) {
     .navbar-text {
-        font-size: 12px; /* Further reduce the footer text size for very small screens */
+        font-size: 11px; /* Further reduce the footer text size for very small screens */
     }
 }
 
