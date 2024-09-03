@@ -103,5 +103,9 @@ body {
     .navbar-text {
         font-size: 11px; /* Further reduce the footer text size for very small screens */
     }
+    .navbar {
+        height: 60px;
+        line-height: 0.6;
+    }
 }
 
